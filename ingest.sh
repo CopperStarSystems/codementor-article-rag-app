@@ -1,0 +1,1 @@
+python ./packages/rag-chroma/rag_chroma/ingest.py
